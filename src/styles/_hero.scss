@@ -1,10 +1,36 @@
-
+@use 'variables';
 
 .hero {
-    padding-top: 64px;
+    padding-top: 100px;
     padding-bottom: 100px;
-    // background-image: url(../images/fundo.png);
+    background-image: url(../images/HeroBackground.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
+    font-family: Arcane, sans-serif;
+
+    .container {
+
+        position: relative;
+    }
+
+    &::before {
+
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(00, 00, 00, 0.5);
+        content: '';
+    }
+
+    &__logo {
+
+        margin: 0 auto;
+        height: 280px;
+
+        display: block;
+    }
+
 }

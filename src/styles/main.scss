@@ -1,15 +1,26 @@
 @use 'hero';
+@use 'sobre';
+@use'./components/infos_bar';
+@use './components/buttons';
+@use 'variables';
+@use 'trailer';
 
+@font-face {
+    font-family: Arcane;
+    src: url(../../assets/fonts/Arcane\ Nine.otf);
+    font-weight: 400;
+}
 
 * {
 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Roboto, sans-serif;
+    font-family: Arcane, sans-serif;
     list-style: none;
-    // color: 
+    color: #C29767;
 }
+
 
 .container {
     max-width: 960px;
@@ -24,4 +35,15 @@
     @media (max-width: 1024px) {
         max-width: 90%;
     }
+}
+
+.text {
+
+    font-size: 20px;
+}
+
+.title {
+
+    font-size: 26px;
+    color: variables.$textColor2;
 }

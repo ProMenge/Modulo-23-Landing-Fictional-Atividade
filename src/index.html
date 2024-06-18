@@ -18,34 +18,76 @@
 
     <header class="hero">
         <div class="container">
-            <!-- <img class="hero__logo" src="" alt=""> -->
-            <p class="hero__text">O maior evento de tecnologia do Brasil começa em 10d 12h 20m 12s</p>
+            <img class="hero__logo" src="./images/Arcane_logo.webp" alt="">
 
             <div class="infos-bar">
-                <ul class="infos-bar__infos">
-                    <li class="infos-bar__infos__item">
-                        <b>Localização</b>
-                        Allianz Park - Barra Fubda - São Paulo
-                    </li>
+                <h2 class="infos-bar__title">Estreia em Breve</h2>
+                <p><span class="infos-bar__timer" id="contador"></span></p>
+                <a href="#trailer" class="button button--primary">Veja o Trailer</a>
 
-                    <li class="infos-bar__infos__item">
-                        <b>Preço:</b>
-                        A partir de R$ 120,00
-                    </li>
-                    <li class="infos-bar__infos__item">
-                        <b>Quando</b>
-                        12/12/2022 às 19hrs
-                    </li>
-                </ul>
-                <a href="" class="button button--primary">Garantir minha vaga</a>
             </div>
         </div>
     </header>
+    <section class="sobre sobre--serie">
+        <div class="container">
+            <div class="sobre__sinopse">
+                <h3 class="title">
+                    About the Series:</h3>
+                <p class="text">Amidst the escalating unrest between the rich, utopian city of Piltover and the seedy,
+                    oppressed underbelly of Zaun, sisters Vi and Jinx find themselves embroiled in a developing conflict
+                    over clashing convictions and arcane technologies.
+            </div>
+            <div class="sobre__imagem">
+                <img src="./images/ArcanePoster.jpg" alt="">
+            </div>
+        </div>
+    </section>
+    <section class="sobre sobre--piltover sobre--image-left">
+        <div class="container">
+            <div class="sobre__sinopse">
+                <h3 class="title">
+                    The city of Piltover:</h3>
+                <p class="text">Amidst the escalating unrest between the rich, utopian city of Piltover and the seedy,
+                    oppressed underbelly of Zaun, sisters Vi and Jinx find themselves embroiled in a developing conflict
+                    over clashing convictions and arcane technologies.
+            </div>
+            <div class="sobre__imagem">
+                <img src="./images/Piltover.jpg" alt="">
+            </div>
+        </div>
+    </section>
+    <section class="sobre sobre--zaun">
+        <div class="container">
+            <div class="sobre__sinopse">
+                <h3 class="title">
+                    The City of Zaun:</h3>
+                <p class="text">Amidst the escalating unrest between the rich, utopian city of Piltover and the seedy,
+                    oppressed underbelly of Zaun, sisters Vi and Jinx find themselves embroiled in a developing conflict
+                    over clashing convictions and arcane technologies.
+            </div>
+            <div class="sobre__imagem">
+                <img src="./images/zaun.jpg" alt="">
+            </div>
+        </div>
+    </section>
+
+    <section class="trailer" id="trailer">
+        <div class="container">
+            <h3 class="title">Assista ao Trailer</h3>
+            <iframe width="560" height="315"
+                src="https://www.youtube.com/embed/-ntqKRGcbKU?si=pt57XJ7V1ag18sdj&amp;controls=0&amp;start=1"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+
+    </section>
 
 </body>
 
 
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script src="scripts/main.js"></script>
+<script src="./scripts/main.js"></script>
 
 </html>

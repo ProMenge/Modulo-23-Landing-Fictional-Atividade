@@ -1,0 +1,23 @@
+.infos-bar {
+
+    padding: 16px 24px;
+    background-color: rgba(00, 00, 00, 0.7);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    &__title {
+
+        font-size: 3em;
+        margin: 0;
+    }
+
+    &__timer {
+
+        font-size: 2em;
+        margin: 20px 0;
+    }
+}

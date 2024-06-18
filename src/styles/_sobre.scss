@@ -1,0 +1,53 @@
+@use 'variables';
+
+.sobre {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+
+    .container {
+        display: flex;
+        flex-direction: row;
+    }
+
+    &--serie {
+
+        background-image: linear-gradient(variables.$zaun1, variables.$zaun2);
+    }
+
+    &--piltover {
+
+        background-image: linear-gradient(variables.$zaun2, variables.$zaun3);
+    }
+
+    &--zaun {
+
+        background-image: linear-gradient(variables.$zaun3, variables.$zaun4);
+    }
+
+    &--image-left {
+
+        .container {
+
+            flex-direction: row-reverse;
+        }
+    }
+
+
+
+    &__sinopse {
+        margin: 30px;
+
+        h3 {
+            margin-bottom: 30px;
+        }
+
+    }
+
+    &__imagem {
+
+        img {
+            max-width: 450px;
+        }
+    }
+}
