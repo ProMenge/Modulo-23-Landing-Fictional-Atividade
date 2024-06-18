@@ -20,4 +20,19 @@
         font-size: 2em;
         margin: 20px 0;
     }
+
+    @media (max-width: 640px) {
+
+        &__title {
+
+            font-size: 1.5em;
+
+        }
+
+        &__timer {
+
+            font-size: 1em;
+            margin: 10px 0;
+        }
+    }
 }

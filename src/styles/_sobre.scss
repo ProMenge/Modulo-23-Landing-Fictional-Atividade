@@ -1,8 +1,8 @@
 @use 'variables';
 
 .sobre {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
     position: relative;
 
     .container {
@@ -48,6 +48,27 @@
 
         img {
             max-width: 450px;
+        }
+    }
+
+    @media (max-width:640px) {
+        .container {
+
+            display: block;
+        }
+
+        &__imagem {
+
+            img {
+
+                max-width: 300px;
+            }
+        }
+
+        &__sinopse {
+
+            margin: 0;
+            margin-bottom: 16px;
         }
     }
 }

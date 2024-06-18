@@ -1,8 +1,8 @@
 @use 'variables';
 
 .hero {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
     background-image: url(../images/HeroBackground.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -31,6 +31,21 @@
         height: 280px;
 
         display: block;
+    }
+
+    @media (max-width: 640px) {
+        padding: 40px 0;
+
+        &__logo {
+
+            height: 100px;
+        }
+
+        .title {
+
+            font-size: 16px;
+        }
+
     }
 
 }

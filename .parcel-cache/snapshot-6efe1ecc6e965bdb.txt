@@ -4,9 +4,8 @@
 140C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\lmdb\node_modules\node-addon-api\napi.h133631879927980110 0
 127C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\svgo\plugins\removeDesc.js133631879943574209 0
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\fileapi.js133631879956817404 0
-103C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\index.html133632076731449427 0
 128C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-image\lib133631879920754780 1
-109C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\_hero.scss133631919809264029 0
+109C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\_hero.scss133632083273030910 0
 150C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js133631879921177716 0
 122C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\packager-html133631879923443355 1
 150C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133631879956090555 0
@@ -41,7 +40,7 @@
 128C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-tree\lib\lexer\error.js133631879950283123 0
 107C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\base-x133631879923090859 1
 141C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\codeframe\test\codeframe.test.js133631879932136530 0
-92C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist133632076731459421 1
+92C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist133632087849980586 1
 137C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\utility-types\dist\mapped-types.d.ts133631879930297382 0
 123C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\escalade\sync\index.js133631879922361944 0
 147C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\src\_class_private_method_get.mjs133631879956574312 0
@@ -74,7 +73,7 @@
 155C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-select\node_modules\domutils\lib\manipulation.d.ts133631879942315083 0
 91C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src133631876614117873 1
 125C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-tree\lib\syntax\node133631879953592377 1
-125C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\components\_infos_bar.scss133631903364797232 0
+125C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\components\_infos_bar.scss133632083774870627 0
 158C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\csso\cjs\restructure\prepare\createDeclarationIndexer.cjs133631879930368745 0
 131C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\lmdb\dependencies\lmdb-data-v1133631879919466224 1
 98C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\images133632063266576183 1
@@ -88,7 +87,7 @@
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\_\_sliced_to_array_loose133631879954634661 1
 126C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\csso\lib\replace\Value.js133631879946023937 0
 107C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\parcel133631879926099019 1
-102C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\index.html133632076689937124 0
+102C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\index.html133632087198337753 0
 155C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\media.cjs133631879944358862 0
 132C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-tree\lib\syntax\node\Url.js133631879952899015 0
 132C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\regions\VE.js133631879969816760 0
@@ -97,7 +96,7 @@
 116C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\is-glob\LICENSE133631879919473074 0
 150C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133631879944558480 0
 132C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\regions\BY.js133631879945912929 0
-110C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\_sobre.scss133632068174519851 0
+110C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\_sobre.scss133632089120762552 0
 114C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\msgpackr\dist133631879939442117 1
 136C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\webgl.js133631879970629846 0
 119C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\svgo\lib\parser.js133631879931025158 0
@@ -119,9 +118,9 @@
 140C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-tree\lib\syntax\config\generator.js133631879950469326 0
 109C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\components133631910838645806 1
 115C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\lmdb\native.js133631879948450305 0
-108C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\main.scss133632072360195029 0
+108C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\main.scss133632089216106137 0
 150C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-select\node_modules\domhandler\lib\index.d.ts133631879928862476 0
-112C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\_trailer.scss133632075598766498 0
+112C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\_trailer.scss133632089162385007 0
 117C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\lmdb\binding.gyp133631879946373649 0
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133631879932679158 0
 116C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\chalk\readme.md133631879924986594 0
@@ -144,7 +143,7 @@
 115C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\images\Arcane_logo.webp133631882197338431 0
 127C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\csso\cjs\replace\index.cjs133631879931763166 0
 135C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\calc.js133631879946110905 0
-123C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\components\_buttons.scss133631921361517084 0
+123C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\src\styles\components\_buttons.scss133632084295020724 0
 132C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\regions\LU.js133631879965536656 0
 143C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-select\lib\pseudo-selectors\pseudos.js133631879930285382 0
 130C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\core\src\constants.js133631879942504386 0
@@ -1686,7 +1685,7 @@
 116C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\is-json\LICENSE133631879922993009 0
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\postcss-value-parser\lib\stringify.js133631879923174021 0
 124C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\json5\dist\index.min.js133631879924302587 0
-117C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Arcane Nine.d0d6c400.otf133632072674215676 0
+117C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Arcane Nine.d0d6c400.otf133632087849502204 0
 133C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\postcss-value-parser\lib\walk.js133631879924941737 0
 132C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\regions\UZ.js133631879969816760 0
 123C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\picomatch\CHANGELOG.md133631879926684821 0
@@ -2748,7 +2747,7 @@
 150C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\es6-string-includes.js133631879956463482 0
 143C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\wasm-threads.js133631879970476309 0
 125C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\domutils\lib\legacy.d.ts133631879931012875 0
-112C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\styles\main.css.map133632075599219124 0
+112C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\styles\main.css.map133632089163479502 0
 127C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\css-tree\lib\syntax\config133631879953511381 1
 166C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\index.js133631879933405528 0
 126C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\domutils\lib\stringify.js133631879926131782 0
@@ -3140,7 +3139,7 @@
 129C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\color-convert\conversions.js133631879921968751 0
 126C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\csso\lib\replace\color.js133631879942430863 0
 152C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133631879931173663 0
-108C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\styles\main.css133632075599179000 0
+108C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\styles\main.css133632089163449401 0
 151C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133631879951325632 1
 130C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\esm\_decorate.js133631879948714650 0
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@lmdb\lmdb-win32-x64\node.abi115.node133631879929142419 0
@@ -4116,7 +4115,7 @@
 142C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\blobbuilder.js133631879944545545 0
 139C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\bloburls.js133631879944598926 0
 139C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\minmaxwh.js133631879965812059 0
-118C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\ArcanePoster.63b93b8f.jpg133632072674213027 0
+118C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\ArcanePoster.63b93b8f.jpg133632087849497230 0
 143C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\border-image.js133631879945097332 0
 147C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\broadcastchannel.js133631879945264521 0
 137C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\caniuse-lite\data\features\brotli.js133631879945384512 0
@@ -4824,7 +4823,7 @@
 136C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\cjs\_object_spread.cjs133631879943004834 0
 168C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\clone.js133631879929612424 0
 154C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs133631879943096549 0
-114C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Piltover.63910009.jpg133632072674213027 0
+114C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Piltover.63910009.jpg133632087849461176 0
 152C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133631879930024388 0
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\cjs\_super_prop_base.cjs133631879944212605 0
 146C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@swc\helpers\cjs\_tagged_template_literal.cjs133631879944429383 0
@@ -4930,7 +4929,7 @@
 119C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\utils\test133631879944817029 1
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\utils\test\collection.test.js133631879927232232 0
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\utils\test\DefaultMap.test.js133631879929571351 0
-120C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\HeroBackground.b7f5f568.jpg133632072674213027 0
+120C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\HeroBackground.b7f5f568.jpg133632087849497230 0
 138C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\utils\test\objectHash.test.js133631879941888742 0
 140C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\utils\test\PromiseQueue.test.js133631879942947400 0
 151C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133631879943528293 0
@@ -5502,7 +5501,7 @@
 172C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\var.js133631879948749542 0
 172C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\lexer.js133631879944580858 0
 173C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\parser.js133631879946462022 0
-110C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\index.f75de5e1.js133632072674278832 0
+110C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\index.f75de5e1.js133632087849798899 0
 173C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\walker.js133631879948856815 0
 176C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\font-face.js133631879939379235 0
 164C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match.js133631879944945382 0
@@ -5587,7 +5586,7 @@
 182C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133631879942532321 0
 171C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUnusedNS.js133631879942673243 0
 183C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133631879942904202 0
-142C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Modulo-23-Landing-Fictional-Atividade.59712999.js133632072674014571 0
+142C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Modulo-23-Landing-Fictional-Atividade.59712999.js133632087849748473 0
 187C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133631879945280898 0
 170C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeViewBox.js133631879942983903 0
 168C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeXMLNS.js133631879943086381 0
@@ -6024,12 +6023,13 @@
 116C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\.bin\semver.cmd133631879971847456 0
 128C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\node_modules\.bin\update-browserslist-db133631879971852455 0
 127C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\ArcanePoster.63b93b8f.jpg.18968.1b133631929140768658 0
-118C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Arcane_logo.cca921b3.webp133632072674261844 0
 129C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\HeroBackground.b7f5f568.jpg.18968.1a133631929140764807 0
-114C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\index.f75de5e1.js.map133632072674316110 0
-146C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Modulo-23-Landing-Fictional-Atividade.59712999.js.map133632072674083084 0
-100C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\scripts133632072674145038 1
-99C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\styles133632075599235039 1
-110C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\zaun.8a49841c.jpg133632072674191374 0
-108C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\scripts\main.js133632072674017336 0
-112C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\scripts\main.js.map133632072674085040 0
+100C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\scripts133632087849858201 1
+99C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\styles133632089163497990 1
+110C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\zaun.8a49841c.jpg133632087849557403 0
+118C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Arcane_logo.cca921b3.webp133632087849629388 0
+108C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\scripts\main.js133632087849767500 0
+146C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\Modulo-23-Landing-Fictional-Atividade.59712999.js.map133632087849798899 0
+114C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\index.f75de5e1.js.map133632087849832002 0
+112C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\scripts\main.js.map133632087849827013 0
+103C:\Users\F170310\Desktop\EBAC\FullStack\Front-End\Modulo-23-Landing-Fictional-Atividade\dist\index.html133632087849970884 0

@@ -2,8 +2,8 @@
 
 .trailer {
 
-    padding-top: 4vh;
-    padding-bottom: 4vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
     position: relative;
     background-image: linear-gradient(variables.$zaun4, variables.$zaun5);
 
@@ -31,6 +31,21 @@
 
         margin: 2vh;
 
+    }
+
+    &__video {
+
+        width: 560px;
+        height: 315px;
+    }
+
+    @media (max-width:640px) {
+
+        &__video {
+
+            width: 300px;
+
+        }
     }
 
 
